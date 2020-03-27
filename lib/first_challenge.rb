@@ -3,8 +3,11 @@ def first_challenge
      :montagues => {
        :patriarch => {},
        :matriarch => {},
-       
+       :hero => {},
+       :hero_friends => []
      },
-     :capulets => {}
+     :capulets => {
+       
+     }
    }
 end

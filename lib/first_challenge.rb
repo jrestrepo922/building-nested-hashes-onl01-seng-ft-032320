@@ -8,6 +8,7 @@ def first_challenge
      },
      :capulets => {
        :patriarch => {},
+       :matriarch => {},
        
      }
    }
